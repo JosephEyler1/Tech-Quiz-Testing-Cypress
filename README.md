@@ -11,7 +11,7 @@ This is an exercise in running various types of tests on a simple application. T
 
 ## Installation
 
-The project can be accessed at the repository.
+The project can be accessed at the repository. Install dependencies as needed.
 
 ## Usage
 
